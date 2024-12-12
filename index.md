@@ -20,7 +20,7 @@ My GitHub page is http://github.com/hey-kylon.
     So I was very familiar with gambling and things of the nature. 
     I was able to write functions for the first time that led to blackjack being properly played.
  
-* Lab 7
+* Lab 10
 
     Lab 10,was fun as it was our one and only solo lab. 
     I have always liked working alone all throughout school.
